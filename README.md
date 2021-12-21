@@ -14,9 +14,9 @@ Available at: https://insights.stackoverflow.com/survey
 - dfY3: Stack Overflow 2021 Annual Developer Survey Results
 
 # Libraries used: 
-Numpy
-Pandas
-Matplotlib
+- Numpy
+- Pandas
+- Matplotlib
 
 # Notes: 
 - Respondents that did not give a gender or selected ‘Prefer not to say’, were dropped from the data set. 
