@@ -22,7 +22,7 @@ Available at: https://insights.stackoverflow.com/survey
 # Notes: 
 - Respondents that did not give a gender or selected ‘Prefer not to say’, were dropped from the data set. 
 - Some respondents reported weekly working hours larger than the number of hours in a week (168 hours). Respondents reporting weekly working hours greater than 90 hours (equivalent to around 7 days a week, 13 hours per day) were removed when visualising weekly working hours as these were thought to be errors. 
--	Respondents reporting compensation greater than $bn were deleted when visualising compensation data as these were thought to be errors.
+-	Respondents reporting compensation greater than $1bn were deleted when visualising compensation data as these were thought to be errors.
 
 # Results summary: 
 1.	There is a higher proportion of female data scientist than full-stack developers (the most popular developer field). 
