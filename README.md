@@ -9,9 +9,9 @@ Available at: https://insights.stackoverflow.com/survey
 4.	Within the field of data science, is there a difference in job satisfaction, hours worked, salary between male and females? How has this changed between 2019 and 2020 survey results?
 
 # Files in repository: 
-dfY1: Stack Overflow 2019 Annual Developer Survey Results
-dfY2: Stack Overflow 2020 Annual Developer Survey Results
-dfY3: Stack Overflow 2021 Annual Developer Survey Results
+- dfY1: Stack Overflow 2019 Annual Developer Survey Results
+- dfY2: Stack Overflow 2020 Annual Developer Survey Results
+- dfY3: Stack Overflow 2021 Annual Developer Survey Results
 
 # Libraries used: 
 Numpy
