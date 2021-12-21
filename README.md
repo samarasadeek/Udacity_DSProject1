@@ -1,6 +1,7 @@
 # Udacity_DSProject1
 
 # Description:
+Blogpost available: https://medium.com/@Samara_S/2021-outlook-for-women-in-data-science-d7306fd12bf
 There are numerous articles on the gender imbalance in the field of data science. Being a female and looking to break into the field of data science I was interested to see if there has been a change in this imbalance over time and if there are inequalities in different avenues (e.g. salary) that are driving this imbalance. I used the data from Stack Overflow’s 2019, 2020 and 2021 Annual Developer Surveys to gain some insight to being a female  data scientist. 
 Available at: https://insights.stackoverflow.com/survey 
 1.  What is the most popular developer role based on the 2021 survey results? 
