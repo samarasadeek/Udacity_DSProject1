@@ -1,4 +1,4 @@
-# Udacity_DSND_Project1
+# Udacity_DSProject1
 
 # Description:
 Blogpost available: https://medium.com/@Samara_S/2021-outlook-for-women-in-data-science-d7306fd12bf
